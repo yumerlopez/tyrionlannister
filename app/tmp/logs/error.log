@@ -1,0 +1,9 @@
+2014-11-17 10:47:54 Error: [MissingControllerException] Controller class BooksController could not be found.
+Exception Attributes: array (
+  'class' => 'BooksController',
+  'plugin' => NULL,
+)
+Request URL: /books/books
+Stack Trace:
+#0 /home/ylopez/NetBeansProjects/tyrionlannister/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
